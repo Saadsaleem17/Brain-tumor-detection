@@ -2,7 +2,7 @@
 
 
 
-## The [results.csv](https://github.com/Saadsaleem17/Brain-tumor-detection/blob/main/train/results.csv) file has the following metrics for easier compilation of results
+## The [results.csv](https://github.com/Saadsaleem17/Brain-tumor-detection/blob/main/train/results.csv) file has the following metrics for easier compilation of results of the model training
 
 ### **Training Metrics:**
 1. **`epoch`** – The current training iteration (i.e., how many times the model has gone through the entire dataset).
