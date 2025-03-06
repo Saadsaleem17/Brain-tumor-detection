@@ -1,1 +1,1 @@
-# Brain-tumor-defection
+# Brain-tumor-detection
